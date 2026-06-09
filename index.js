@@ -1,5 +1,5 @@
 let code1;
-code1 = 10;
+code1 = 7 + 3;
 let code2 = 150 / 3 - 10;
 let code3 = 139 % 50;
 let message = "The vault has been secured. The combination is: ";
